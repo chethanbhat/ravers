@@ -5,6 +5,8 @@ description: When a raver goes to a rave party, they are carrying much more than
 header: Raver Paraphernalia and Clothing
 order: 4
 ---
+![Rave Party]({{site.baseurl}}/img/Raver1.jpg)
+
 When a raver goes to a rave party, they are carrying much more than their ticket and their wallets. Ravers are a unique breed and if you were to see the contents of a typical raver’s coat or pant pocket, you may wonder why some of the items in there are needed for a party. Although these things may be baffling to the mind of those that aren’t ravers, they are absolute necessities to someone who spends much of their time partying and going to raves.
 
 There really is no typical dress code for ravers. Although most of them will wear clothing that will help them keep cool during their many hours of dancing and club drug use. Halter tops, tube tops, loose shorts or pants, bikini tops, and tank tops are very common. Because one of the effects of the different club drugs that are taken is a raise in body temperature, and also because ravers do dance for eight hours on end or more, ravers often remove articles of clothing as the party goes on. Baggy pants with extremely wide legs are also very commonly seen as the movement of the clothes helps to enhance the dancing and it also helps keep the raver cool.

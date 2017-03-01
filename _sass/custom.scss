@@ -29,3 +29,14 @@ p {
 .header{
   position: fixed;
 }
+
+.read-more {
+  font-weight: normal;
+  color:#111;
+}
+
+.active-link {
+  border: 1px solid #000;
+  font-weight: bold;
+  color: #000;
+}

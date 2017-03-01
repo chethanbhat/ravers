@@ -1,10 +1,12 @@
 ---
 layout: page
 title: History of Raves
-description: Raves began to grow in popularity in London by the mid 1980s. By the early 1990s, the rave scene had spread out to just about every other part of the United States.
+description: Although many people may think that raves have only been in existence for the past eight to ten years, they actually began in the early 1980s. Techno music emerging from Europe and house music emerging from America began the early rave scene. When they first started, the rave scene was kept very quiet, with the locations, which were generally in a club, being kept secret and those who wanted to attend could only do so by invitation.
 header: History of Raves
 order: 3
 ---
+![Rave Party]({{site.baseurl}}/img/Raver2.jpg)
+
 Although many people may think that raves have only been in existence for the past eight to ten years, they actually began in the early 1980s. Techno music emerging from Europe and house music emerging from America began the early rave scene. When they first started, the rave scene was kept very quiet, with the locations, which were generally in a club, being kept secret and those who wanted to attend could only do so by invitation. Even those who were invited were usually not told the location of the rave until the night that it was to be held. This secrecy led to the rave scene becoming known as part of the underground movement.
 
 Raves began to grow in popularity in London by the mid 1980s. They were so popular and attended by so many ravers that they quickly became too large to continue to hold them in clubs. They then moved to the outer parts of the cities and where often held outdoors to be able to accommodate the large crowds. This was when raves also began to be held as an all-night event. It was later in the decade that raves began found their way to the United States, with the first raves being held in San Francisco and Los Angeles.

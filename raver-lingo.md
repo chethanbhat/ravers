@@ -5,6 +5,8 @@ description: Ravers have their own very unique culture. Not only do they have ce
 header: Raver Lingo
 order: 5
 ---
+![Rave Party]({{site.baseurl}}/img/Raver2.jpg)
+
 Ravers have their own very unique culture. Not only do they have certain styles of clothes that they wear and a certain type of music they will listen to, they also have their own language. While the common motto of ravers is “Peace, Love, Unity and Respect,” otherwise known as PLUR, they have many other slang terms that one who is not a raver couldn’t possibly understand. Until now! Below is a list of very commonly used slang terms as well as what a raver is trying to say when using them.
 
 **Abe** : This term refers to someone will “take an Abe.” The raver would like five dollars worth of drugs.

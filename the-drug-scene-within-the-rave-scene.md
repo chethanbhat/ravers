@@ -5,6 +5,8 @@ description: When one thinks about ravers and the rave scene, the first thought 
 header: The Drug Scene within the Rave Scene
 order: 3
 ---
+![Rave Party]({{site.baseurl}}/img/Raver2.jpg)
+
 When one thinks about ravers and the rave scene, the first thought that comes to mind is often related to drug use. This is because drug use is so prevalent among ravers who attend these all-night parties. Any promotion that is associated with raves, such as flyers and posters, often also promote the use of drugs at the party they are promoting. The most popular drugs used at raves are usually MDMA, or ecstasy, marijuana, GHB, LSD, and ketamine, often referred to by ravers as “Special K.” Most ravers don’t think there is any danger in participating in drug use while they are at the raves but they can be quite harmful. They can not only be harmful by consuming the drug but also by the actions taken by a raver after that drug has been taken.
 
 The Drug Abuse Warning Network reports that the number of overdoses and other drug-related visits to the Emergency Room are rapidly increasing in number and the sudden increase began when raves started to become extremely popular in the 1990s and have been maintaining steady growth ever since. Raves can also become quite a violent scene as ravers who are ingesting the club drugs aren’t sure what the drugs will do to their bodies. Many of these drugs cause erratic actions and can cause tempers to flare quite quickly. Many raves have had to be shut down due to the violence that these drugs sometimes produce. Some ravers have actually died from their drug use and some have died from other’s actions due to drug use.
