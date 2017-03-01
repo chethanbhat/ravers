@@ -8,7 +8,9 @@ url: "http://ravers.com/"
 #  url: "http://chethanbhat.com"
 
 # Build settings
-baseurl: "" # Change this to your relative path (ex: /blog/), or leave just a /
+
+baseurl: "/ravers" #Change during final commit to github
+url: "https://chethanbhat.github.io/ravers/"
 markdown: kramdown
 source: .
 destination: ./_site

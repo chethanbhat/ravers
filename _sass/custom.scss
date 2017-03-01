@@ -1,3 +1,31 @@
 /*- Custom style -*/
 
 // -- Put custom style under this point -- //
+
+p {
+  text-align: justify;
+  padding: 1% 0;
+}
+
+.post-heading {
+  padding: 2.5% 0;
+  text-align: center;
+}
+
+.logo{
+  padding: 1% 0 2% 0;
+}
+
+.navigation-page-links{
+}
+
+.navigation-page-links > a{
+  display: inline-block;
+  margin: 0% auto;
+  padding: 0%;
+  margin-top: 2.5%;
+}
+
+.header{
+  position: fixed;
+}

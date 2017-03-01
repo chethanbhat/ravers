@@ -2,12 +2,10 @@
 layout: default
 ---
 <article id="post-page">
-	<h2>{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h2>		
-	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+	<h2 class="post-heading">{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h2>
 	<div class="content">
 
 		{{ content }}
-		
+
 	</div>
 </article>
-
