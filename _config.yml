@@ -2,14 +2,10 @@
 title: Ravers
 description: "When a raver goes to a rave party, they are carrying much more than their ticket and their wallets. When one thinks about ravers and the rave scene, the first thought that comes to mind is often related to drug use."
 url: "http://ravers.com/"
-#author:
-#  name: "Chethan Bhat"
-#  email: "hello@chethanbhat.com"
-#  url: "http://chethanbhat.com"
 
 # Build settings
 
-baseurl: "/ravers" #Change during final commit to github
+baseurl: "/ravers"
 url: "https://chethanbhat.github.io/ravers/"
 markdown: kramdown
 source: .
